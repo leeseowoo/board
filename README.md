@@ -1,4 +1,4 @@
-# spring-boot-mission
+# board
 
 ### 1차 과제 결과
 1차 과제는 에어테이블을 통해 제출했습니다.
